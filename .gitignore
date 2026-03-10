@@ -1,0 +1,29 @@
+# node
+node_modules/
+dist/
+build/
+npm-debug.log
+
+# vite
+frontend/node_modules/
+frontend/dist/
+
+# nest
+backend/node_modules/
+backend/dist/
+
+# env
+.env
+.env.*
+
+# python
+__pycache__/
+*.pyc
+
+# odoo data
+odoo-web-data/
+odoo-db-data/
+
+# docker
+*.log
+postgres_data/
